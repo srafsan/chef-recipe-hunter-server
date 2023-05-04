@@ -11,8 +11,9 @@
       "Soufflé",
       "Crème Brûlée"
     ],
-    "rating": 4.8,
+    "rating": 48,
     "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "bg_url": "https://plus.unsplash.com/premium_photo-1676998992663-d3e50089a686?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
     "bio": "Jacques Pépin is a French chef, television personality, and author. He has published over 30 cookbooks and hosted numerous cooking shows."
   },
   {
@@ -27,8 +28,9 @@
       "Tagliatelle al Ragù",
       "Tiramisu"
     ],
-    "rating": 4.9,
-    "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "rating": 49,
+    "img_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "bg_url": "https://images.unsplash.com/photo-1484412509196-57eda96981e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "bio": "Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy."
   },
   {
@@ -38,8 +40,9 @@
     "chef_experience": 40,
     "no_of_recipes": 80,
     "recipe_names": ["Sushi", "Sashimi", "Tempura", "Miso Soup"],
-    "rating": 4.7,
-    "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "rating": 57,
+    "img_url": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "bg_url": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "bio": "Masaharu Morimoto is a Japanese chef and restaurateur who is best known as the Iron Chef on the Japanese television show Iron Chef and its spinoff Iron Chef America."
   },
   {
@@ -49,8 +52,9 @@
     "chef_experience": 20,
     "no_of_recipes": 60,
     "recipe_names": ["Tacos", "Tamales", "Chiles en Nogada", "Guacamole"],
-    "rating": 4.6,
-    "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "rating": 66,
+    "img_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "bg_url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
     "bio": "Enrique Olvera is a Mexican chef and restaurateur. He is the owner of Pujol, a restaurant in Mexico City that has been ranked as one of the best restaurants in the world."
   },
   {
@@ -60,8 +64,9 @@
     "chef_experience": 30,
     "no_of_recipes": 150,
     "recipe_names": ["Butter Chicken", "Palak Paneer", "Biryani", "Chaat"],
-    "rating": 4.5,
-    "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "rating": 75,
+    "img_url": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "bg_url": "https://plus.unsplash.com/premium_photo-1668546290149-95d06198d8cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
     "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular TV show 'Khana Khazana', which aired for over two decades and made him a household name in India and abroad."
   },
   {
@@ -71,8 +76,9 @@
     "chef_experience": 25,
     "no_of_recipes": 40,
     "recipe_names": ["Bibimbap", "Kimchi Fried Rice", "Japchae", "Galbi"],
-    "rating": 4.4,
-    "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "rating": 64,
+    "img_url": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "bg_url": "https://images.unsplash.com/photo-1607352186018-98a4f38bcfef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
     "bio": "Jung Sik Yim is a South Korean chef who is the owner and executive chef of three Michelin-starred restaurant Jungsik in Seoul, New York, and Hong Kong."
   }
 ]
