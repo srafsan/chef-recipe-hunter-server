@@ -9,14 +9,17 @@ const popularFoods = require("./data/popular.json");
 
 app.use(cors());
 
+// Home route
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
+// Chef api
 app.get("/chef", (req, res) => {
   res.send(chefDetails);
 });
 
+// individual chef api
 app.get("/chef/:id", (req, res) => {
   const id = req.params.id;
 
@@ -24,6 +27,7 @@ app.get("/chef/:id", (req, res) => {
   res.send(selectedChef);
 });
 
+// popular foods api
 app.get("/popular-foods", (req, res) => {
   res.send(popularFoods);
 });
