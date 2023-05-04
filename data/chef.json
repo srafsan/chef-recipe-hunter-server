@@ -5,11 +5,58 @@
     "chef_name": "Jacques Pepin",
     "chef_experience": 50,
     "no_of_recipes": 250,
-    "recipe_names": [
-      "Coq au Vin",
-      "Beef Bourguignon",
-      "Soufflé",
-      "Crème Brûlée"
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
     ],
     "rating": 48,
     "img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
@@ -22,11 +69,58 @@
     "chef_name": "Massimo Bottura",
     "chef_experience": 35,
     "no_of_recipes": 120,
-    "recipe_names": [
-      "Tortellini in Brodo",
-      "Risotto alla Parmigiana",
-      "Tagliatelle al Ragù",
-      "Tiramisu"
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
     ],
     "rating": 49,
     "img_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
@@ -39,7 +133,59 @@
     "chef_name": "Masaharu Morimoto",
     "chef_experience": 40,
     "no_of_recipes": 80,
-    "recipe_names": ["Sushi", "Sashimi", "Tempura", "Miso Soup"],
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
     "rating": 57,
     "img_url": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     "bg_url": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
@@ -51,7 +197,59 @@
     "chef_name": "Enrique Olvera",
     "chef_experience": 20,
     "no_of_recipes": 60,
-    "recipe_names": ["Tacos", "Tamales", "Chiles en Nogada", "Guacamole"],
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
     "rating": 66,
     "img_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
     "bg_url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
@@ -63,7 +261,59 @@
     "chef_name": "Sanjeev Kapoor",
     "chef_experience": 30,
     "no_of_recipes": 150,
-    "recipe_names": ["Butter Chicken", "Palak Paneer", "Biryani", "Chaat"],
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
     "rating": 75,
     "img_url": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     "bg_url": "https://plus.unsplash.com/premium_photo-1668546290149-95d06198d8cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
@@ -75,7 +325,59 @@
     "chef_name": "Jung Sik Yim",
     "chef_experience": 25,
     "no_of_recipes": 40,
-    "recipe_names": ["Bibimbap", "Kimchi Fried Rice", "Japchae", "Galbi"],
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
     "rating": 64,
     "img_url": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     "bg_url": "https://images.unsplash.com/photo-1607352186018-98a4f38bcfef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",

@@ -5,6 +5,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 const chefDetails = require("./data/chef.json");
+const popularFoods = require("./data/popular.json");
 
 app.use(cors());
 
@@ -21,6 +22,10 @@ app.get("/chef/:id", (req, res) => {
 
   const selectedChef = chefDetails.find((n) => n.chef_id == id);
   res.send(selectedChef);
+});
+
+app.get("/popular-foods", (req, res) => {
+  res.send(popularFoods);
 });
 
 app.listen(port, () => {
